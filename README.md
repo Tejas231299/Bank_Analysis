@@ -1,4 +1,7 @@
-# Bank_Analysis
+# Bank_Loan_Analysis
+
+![FINANCE (4)](1721177210873.png)
+
 
 ## 📝 Project Overview
 This project contains SQL queries designed to analyze bank loan data from two tables: finance 1 and finance 2. The analysis focuses on extracting key performance indicators (KPIs) related to loan amounts, revolving balances, payments, and loan statuses.
